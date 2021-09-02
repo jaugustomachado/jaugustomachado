@@ -5,7 +5,7 @@ I am a civil engineer and graduate student in business administration, currently
 - 🔭 Student of NExt from CESAR - School
 - 🌱 Currently studyng PYTHON and JAVA
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Passionate about Science Fiction and Astronomy 🚀🌎130em
+- ⚡ Fun fact: Passionate about Science Fiction and Astronomy 🚀🌎
 
 <div>
   <a href="https://github.com/jaugustomachado">
