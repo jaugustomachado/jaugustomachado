@@ -5,12 +5,12 @@ I am a civil engineer and graduate student in business administration, currently
 - 🔭 Student of NExt from CESAR - School
 - 🌱 Currently studyng PYTHON and JAVA
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Passionate about Science Fiction and Astronomy 🚀🌎
+- ⚡ Fun fact: Passionate about Science Fiction and Astronomy 🚀🌎130em
 
 <div>
   <a href="https://github.com/jaugustomachado">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=jaugustomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaugustomachado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jaugustomachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaugustomachado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
