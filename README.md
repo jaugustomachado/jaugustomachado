@@ -3,7 +3,7 @@
 I am a civil engineer and graduate student in business administration, currently transitioning my career to the IT field.
 
 - 🔭 Student of NExt from CESAR - School
-- 🌱 Currently studyng PYTHON and JAVA
+- 🌱 Currently studying PYTHON and JAVA
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Passionate about Science Fiction and Astronomy 🚀🌎
 
@@ -23,6 +23,4 @@ I am a civil engineer and graduate student in business administration, currently
 <div> 
   <a href = "mailto:jose.augusto.machado@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-machado-9ab81612a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 
